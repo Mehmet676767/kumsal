@@ -8,11 +8,11 @@ load_dotenv()
 
 API_ID = int(getenv("API_ID", "20584104"))
 API_HASH = getenv("API_HASH", "f325ee578444d70ad2d02b0673f94d3a")
-BOT_TOKEN = getenv("BOT_TOKEN", "7123283070:AAH9kkVtrBbky4zkCXpwhgEP6suzr-_yerg")
+BOT_TOKEN = getenv("BOT_TOKEN", "7164261117:AAFHmsgJrZDvxlsJwSLWj1DjvmA1r14HnaQ")
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://kurt67143:nays@cluster0.vjg7bma.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 500))
 LOGGER_ID = int(getenv("LOGGER_ID", "-1002065943011"))
-OWNER_ID = int(getenv("OWNER_ID", "6997506255"))
+OWNER_ID = int(getenv("OWNER_ID", "6387858072"))
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "",
@@ -20,7 +20,7 @@ UPSTREAM_REPO = getenv(
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/masaldestekkanal")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/kumsaldestek")
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
-STRING1 = getenv("STRING_SESSION", "BAGXyHkAsGewVlzzT6z0b6nZZJLjs-EtH2sRxwAL7lCVJJy79oKf6wuAALOXRZq6rDnSgLa7AJn-JV6Nk5CSyCwVXudN32w7X5o_gD5tx1SwPkIxgx1UljyYBq3p4TTP2PV2l0wjMiZhWzlSAbkBXkWh1Qb6kcPK5t9v8MirO7yuPy0xYmD9ulffl-U8FyGQm-g1NGNYzkI3Tq_zAqqA-MmqtOfU6y2znNJMVKuXNvycDOUj4XYSKpIpYMMC5GVwzY4VlQ9pr06gh_FwRoabr3RWEgu0GbmTawM2x2sJXVxpDg10tXZmrGVRkMKBMVrfR8FiAxqg09DiSCSkZ3pV8X10tLuymgAAAAFp2w_AAA")
+STRING1 = getenv("STRING_SESSION", "BAGXyHkABQ2QLhrCYP8Jz7WRzYrYDaaY5o9V95zKw1w7e6H3_A6f5rywtQClctV8P1PncPyS0BsyumgWtiZLl6z_1BHTOc0kmXNy5LdNBWt_6tXwe9EDO_8ieiyWFmGx-ift095wT4W0G_a0W__YycgiGGCufZwLQiXEo9hYSYE7g6DdswY4tdfMoPml62Ps_8-DHtRS4PYaAlvP6hkh5riCqCaOk0XrpZR4Oqv6SdjB__2JOBwNeeQBzWVBSc5HQLGLOiwaRDFFXVwjD9Bh2U8MKS5WqvZ8bS6KLE0aEcN1hAaaJrmaKB9Te8UsX8fInRq3vOcZz3mDxtUtVRR429YRVigtFgAAAAGrSarFAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -55,14 +55,14 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/Slm-06-18-2"
+    "START_IMG_URL", "https://telegra.ph/Jww-06-18"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/Slm-06-18-2"
+    "PING_IMG_URL", "https://telegra.ph/Jww-06-18"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/Slm-06-18-2"
-STATS_IMG_URL = "https://graph.org/file/27a61ca0b81fec7299200.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org/file/6c6cce625f4a721569703.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/Jww-06-18"
+STATS_IMG_URL = "https://telegra.ph/Jww-06-18"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/Jww-06-18"
 TELEGRAM_VIDEO_URL = "https://graph.org/file/6c6cce625f4a721569703.jpg"
 STREAM_IMG_URL = "https://graph.org/file/6c6cce625f4a721569703.jpg"
 SOUNCLOUD_IMG_URL = "https://graph.org/file/6c6cce625f4a721569703.jpg"
