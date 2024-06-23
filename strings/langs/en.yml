@@ -1,4 +1,4 @@
-name  : 🇹🇷 Turkish
+name : 🇹🇷 Turkish
 
 
 general_1 : "»  BİR KULLANICININ MESAJINA CEVAP VERİN VEYA KULLANICI ADINI/KULLANICIYI VERİN."
@@ -90,7 +90,6 @@ start_3 : "𝖬𝖤𝖱𝖧𝖠𝖡𝖠 {0],\N 𝖡𝖤𝖭 {1]\n\NT 𝖡𝖤�
 start_4 : "🎄  <b>SÜPER GRUP</b> GEREKLİ</b>\n\nLÜTFEN <b>GRUBUNUZU</b> <b>SÜPER GRUP</b>'A DÖNÜŞTÜRÜN VE SONRA BENİ YENİDEN EKLEYİN.\n\n<b>NASIL SÜPERGRUBU HALE GETİRMEK İÇİN?</b>\n-GRUBUNUZUN SOHBET GEÇMİŞİNİ BİR KEZ <b>GÖRÜNÜR</b> HALE GETİRİN."
 start_5 : "<b> KARA LİSTEDE SOHBET</b>\n\nBU SOHBET {0} DATABASE'DE KARA LİSTEDE.\NREQUEST BİR <a href={1)>SUDO KULLANICISI</a> SOHBETİNİZİ KARA LİSTEDEN KALDIRMAK İÇİN VEYA <a href={2)>SOHBETİ DESTEKLEYİN.</'i ZİYARET ETMEK İÇİN. a>"
 start_6 : "😲 <b>PARÇA AYRINTILARI</b> 😲\n\n📌 <b>BAŞLIK :</b> {0}\n\n⏳ <b>SÜRE :</b> {1} DAKİKA\n👀 <b>GÖRÜNTÜLENME :</b> <code>{2}</code>\n⏰ <b>YAYINLANDI :</b> {3}\n📎 <b>KANAL :</b> <a href={4}>{5}</a>\n\n<u><b>🥀 TARAFINDAN ARANDI {6}</b></u>"
-
 help_1 : "YARDIM ALMAK İSTEDİĞİNİZ KATEGORİYİ SEÇİN. \nŞÜPHELERİNİZİ <a href={0}>DESTEK SOHBETİ</a>'NDE SORUN\n\nTÜMÜ KOMUTLAR İLE KULLANILABİLİR: <Code>/</code>"
 help_2 : "YARDIM MENÜSÜNÜZE ULAŞMAK İÇİN AŞAĞIDAKİ DÜĞMEYE TIKLAYIN."
 
@@ -174,25 +173,25 @@ queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀᴛ
 queue_7 : "\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
 queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n🎄 <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n🔗 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n🥀 <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "🎧 <b>Ş𝖠𝖱𝖪𝖨 𝖡𝖠Ş𝖫𝖠𝖣𝖨 |</b>\n\n<b> 🎧BAŞLIK :</b> <a href={0}>{1}</a>\n<b>‣ 🎧SÜRE :</b> {2} \n<b>🎧TALEP EDEN :</b> {3}"
+stream_1 : "➲ <b>уαуıη вαѕ̧ℓα∂ı |</b>\n\n<b> вαѕ̧ℓιк :</b> <a href={0}>{1}</a>\n<b>‣ ѕϋяє :</b> {2} ∂αкιкα\n<b>тαℓєρ є∂єη :</b> {3}"
 stream_2 : "➲ <b>Sᴛᴀʀᴛᴇᴅ Sᴛʀᴇᴀᴍɪɴɢ |</b>\n\n<b>‣ Sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>‣ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {0}"
 
 
-CLOSE_BUTTON  : "GERİ"
-BACK_BUTTON : "KAPAT"
+CLOSE_BUTTON  : "𝗀𝖾𝗋𝗂"
+BACK_BUTTON : "𝗄𝖺𝗉𝖺𝗍"
 
 S_B_1 : "✅𝖻𝖾𝗇𝗂 𝗀𝗋𝗎𝖻𝗎𝗇𝖺 𝖾𝗄𝗅𝖾✅"
 S_B_2 : "📢𝖽𝖾𝗌𝗍𝖾𝗄📢"
 S_B_3 : "✅𝖻𝖾𝗇𝗂 𝗀𝗋𝗎𝖻𝗎𝗇𝖺 𝖾𝗄𝗅𝖾✅"
 S_B_4 : "🖥️𝗒𝖺𝗋𝖽ı𝗆 𝗄𝗈𝗆𝗎𝗍𝗅𝖺𝗋🖥️"
-S_B_5 : "🧑‍💻𝗌𝖺𝗁𝗂𝗉🧑‍💻"
+S_B_5 : "🧑‍💻𝗌𝖺𝗁𝗂𝖻𝗂🧑‍💻"
 S_B_6 : "💌𝗄𝖺𝗇𝖺𝗅💌"
 S_B_7 : "☁️𝗄𝖺𝗒𝗇𝖺𝗄 𝗄𝗈𝖽☁️"
 S_B_8 : "🤕 𝗒𝗈𝗍𝗎𝖻𝖾 🤕"
 S_B_9 : "🥀 𝖽𝖾𝗌𝗍𝖾𝗄 🥀"
 
-H_B_1 : "᯾ 𝗒𝗈̈𝗇𝖾𝗍𝗂𝖼𝗂 ᯾"
-H_B_2 : "᯾ 𝗒𝖾𝗍𝗄𝗂𝗅𝖾𝗇𝖽𝗂𝗋𝗈̈𝖾 ᯾"
+H_B_1 : "᯾ 𝗒ö𝗇𝖾𝗍𝗂𝖼𝗂 ᯾"
+H_B_2 : "᯾ 𝗒𝖾𝗍𝗄𝗂𝗅𝖾𝗇𝖽𝗂𝗋𝗆𝖾 ᯾"
 H_B_3 : "᯾ 𝗒𝖺𝗒ı𝗇 ᯾"
 H_B_4 : "᯾ Sohbet 𝗒𝖺𝗌𝖺𝗄𝗅𝖺𝗈̈𝖺 ᯾"
 H_B_5 : "᯾ Kullanıcı 𝗒𝖺𝗌𝖺𝗄𝗅𝖺𝗆𝖺 ᯾"
@@ -301,7 +300,7 @@ gban_11 : "» ғᴇᴛᴄʜɪɴɢ ɢʙᴀɴɴᴇᴅ ᴜsᴇʀs ʟɪsᴛ..."
 gban_12 : "🙂 <b>ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇᴅ ᴜsᴇʀs :</b>\n\n"
 
 broad_1 : "**Bottan {1} Pinli {0} Sohbette Yayınlanan Mesaj.**"
-broad_2 : "Asistan Yayını Başlatıldı..."
+broad_2 : "𝒂𝒌𝒕𝒊𝒇𝒊𝒎 𝒃𝒆𝒃𝒆𝒈𝒊𝒎..."
 broad_3 : "**Yardımcı Yayın:**\n\n"
 broad_4 : "Asistan 1, {0} sohbette yayınlandı\n"
 broad_5 : "Asistan 2, {0} sohbette yayınlandı\n"
