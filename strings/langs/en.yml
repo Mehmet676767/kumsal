@@ -1,4 +1,4 @@
-name : 🇹🇷 Turkish
+name  : 🇹🇷 Turkish
 
 
 general_1 : "»  BİR KULLANICININ MESAJINA CEVAP VERİN VEYA KULLANICI ADINI/KULLANICIYI VERİN."
@@ -84,9 +84,9 @@ admin_38 : "»  1 OLUM EKLENDİ."
 admin_39 : "» 1 OK OY KALDIRILDI."
 admin_40 : "ARTIK OY VERİLDİ."
 
-start_1 : "{0} AKTİFİM BEBEĞİM.\n\n<b>✫ ŞU ZAMANDAN :</b> {1}"
-start_2 : "<b>Hey</b>{0},\n\n© BU {1}!\n\n+BAZI HARİKA ÖZELLİKLERE SAHİP HIZLI VE GÜÇLÜ TELEGRAM MÜZİK ÇALAR BOTU.\n\n<b> <U>DESTEKLENEN PLATFORMLAR:</b></U>YOUTUBE, SPOTIFY, RESSO, APPLE MUSIC VE SOUNDCLOUD.\n n<b> YARDIM DÜĞMESİNİ TIKLAYIN MODÜLLERİM VE KOMUTLARIM HAKKINDA BİLGİ ALMAK İÇİN.</b>"
-start_3 : "HEY {0],\NBU {1]\n\NT BENİ {2}, (3} CAN'A EKLEDİĞİNİZ İÇİN TEŞEKKÜR EDERİM ŞİMDİ BU SOHBETTE ŞARKILARI ÇAL"
+start_1 : "{0} 𝖡𝖮𝖳 𝖠𝖪𝖳İ𝖥.\n\n<b>✫ Ş𝖴  𝖹𝖠𝖬𝖠𝖭𝖣𝖠𝖭  :</b> {1}"
+start_2 : "<b> 𝖬𝖤𝖱𝖧𝖠𝖡𝖠 </b>{0},\n\n© BU {1}!\n\n +𝖡𝖠𝖹𝖨 Ö𝖹𝖤𝖫𝖫İ𝖪𝖫𝖤𝖱𝖤 𝖲𝖠𝖧İ𝖯  𝖦ÜÇ𝖫Ü 𝖳𝖤𝖫𝖤𝖦𝖱𝖠𝖬 𝖬Ü𝖹İ𝖪 Ç𝖠𝖫𝖠𝖱 𝖡𝖮𝖳𝖴𝖸𝖴𝖬 .\n\n<b> <U>𝖣𝖤𝖲𝖳𝖤𝖪𝖫𝖤𝖭𝖤𝖭 𝖯𝖫𝖠𝖳𝖥𝖮𝖱𝖬𝖫𝖠𝖱:</b></U>ʏᴏᴛᴜʙᴇ, sᴘᴏᴛɪғɪʏ, ʀᴇssɪ, ᴀᴘᴘʟᴇ ᴍᴜsɪᴄ ᴠᴇ sᴏɴᴅᴄʟᴏᴜᴅ .\n <b> 𝖸𝖠𝖱𝖣𝖨𝖬 𝖣ÜĞ𝖬𝖤𝖲İ𝖭İ 𝖳𝖨𝖪𝖫𝖠𝖸𝖨 𝖬𝖮𝖣Ü𝖫𝖫𝖤𝖱İ𝖬 𝖵𝖤 𝖪𝖮𝖬𝖴𝖳𝖫𝖠𝖱𝖨𝖬 𝖧𝖠𝖪𝖪𝖨𝖭𝖣𝖠 𝖡İ𝖫𝖦İ 𝖠𝖫𝖬𝖠𝖪 İÇİ𝖭 .</b>"
+start_3 : "𝖬𝖤𝖱𝖧𝖠𝖡𝖠 {0],\N 𝖡𝖤𝖭 {1]\n\NT 𝖡𝖤𝖭İ {2}, (3} 𝖦𝖱𝖴𝖡𝖴𝖭𝖴𝖹𝖠 𝖤𝖪𝖫𝖤𝖣İĞİ𝖭İ𝖹 İÇİ𝖭 𝖳𝖤Ş𝖤𝖪𝖪Ü𝖱 𝖤𝖣𝖤𝖱İ𝖬 Şİ𝖬𝖣İ 𝖡𝖴 𝖲𝖮𝖧𝖡𝖤𝖳𝖳𝖤 Ş𝖠𝖱𝖪𝖨 𝖲Ö𝖸𝖫İ𝖢𝖤𝖬"
 start_4 : "🎄  <b>SÜPER GRUP</b> GEREKLİ</b>\n\nLÜTFEN <b>GRUBUNUZU</b> <b>SÜPER GRUP</b>'A DÖNÜŞTÜRÜN VE SONRA BENİ YENİDEN EKLEYİN.\n\n<b>NASIL SÜPERGRUBU HALE GETİRMEK İÇİN?</b>\n-GRUBUNUZUN SOHBET GEÇMİŞİNİ BİR KEZ <b>GÖRÜNÜR</b> HALE GETİRİN."
 start_5 : "<b> KARA LİSTEDE SOHBET</b>\n\nBU SOHBET {0} DATABASE'DE KARA LİSTEDE.\NREQUEST BİR <a href={1)>SUDO KULLANICISI</a> SOHBETİNİZİ KARA LİSTEDEN KALDIRMAK İÇİN VEYA <a href={2)>SOHBETİ DESTEKLEYİN.</'i ZİYARET ETMEK İÇİN. a>"
 start_6 : "😲 <b>PARÇA AYRINTILARI</b> 😲\n\n📌 <b>BAŞLIK :</b> {0}\n\n⏳ <b>SÜRE :</b> {1} DAKİKA\n👀 <b>GÖRÜNTÜLENME :</b> <code>{2}</code>\n⏰ <b>YAYINLANDI :</b> {3}\n📎 <b>KANAL :</b> <a href={4}>{5}</a>\n\n<u><b>🥀 TARAFINDAN ARANDI {6}</b></u>"
@@ -174,22 +174,22 @@ queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀᴛ
 queue_7 : "\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
 queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n🎄 <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n🔗 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n🥀 <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "➲ <b>уαуıη вαѕ̧ℓα∂ı |</b>\n\n<b> вαѕ̧ℓιк :</b> <a href={0}>{1}</a>\n<b>‣ ѕϋяє :</b> {2} ∂αкιкα\n<b>тαℓєρ є∂єη :</b> {3}"
+stream_1 : "🎧 <b>Ş𝖠𝖱𝖪𝖨 𝖡𝖠Ş𝖫𝖠𝖣𝖨 |</b>\n\n<b> 🎧BAŞLIK :</b> <a href={0}>{1}</a>\n<b>‣ 🎧SÜRE :</b> {2} \n<b>🎧TALEP EDEN :</b> {3}"
 stream_2 : "➲ <b>Sᴛᴀʀᴛᴇᴅ Sᴛʀᴇᴀᴍɪɴɢ |</b>\n\n<b>‣ Sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>‣ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {0}"
 
 
-CLOSE_BUTTON  : "𝙜𝙚𝙧𝙞"
-BACK_BUTTON : "𝙠𝙖𝙥𝙖𝙩"
+CLOSE_BUTTON  : "GERİ"
+BACK_BUTTON : "KAPAT"
 
-S_B_1 : "✅𝙗𝙚𝙣𝙞 𝙜𝙧𝙪𝙣𝙪𝙣𝙖 𝙚𝙠𝙡𝙚✅"
-S_B_2 : "📢𝙙𝙚𝙨𝙩𝙚𝙠📢"
-S_B_3 : "✅𝙗𝙚𝙣𝙞 𝙜𝙧𝙪𝙗𝙪𝙣𝙖 𝙚𝙠𝙡𝙚✅"
-S_B_4 : "🖥️𝙮𝙖𝙧𝙙𝜾𝙢 & 𝙠𝙤𝙢𝙪𝙩𝙡𝙖𝙧🖥️"
-S_B_5 : "🧑‍💻𝙜𝙚𝙡𝙞𝙨̧𝙩𝙞𝙧𝙞𝙘𝙞🧑‍💻"
-S_B_6 : "💌𝙠𝙖𝙣𝙖𝙡💌"
-S_B_7 : "☁️𝙠𝙖𝙮𝙣𝙖𝙠 𝙠𝙤𝙙☁️"
-S_B_8 : "🤕 𝙮𝙤𝙩𝙪𝙗𝙚 🤕"
-S_B_9 : "🥀 𝙙𝙚𝙨𝙩𝙚𝙠 🥀"
+S_B_1 : "✅𝖻𝖾𝗇𝗂 𝗀𝗋𝗎𝖻𝗎𝗇𝖺 𝖾𝗄𝗅𝖾✅"
+S_B_2 : "📢𝖽𝖾𝗌𝗍𝖾𝗄📢"
+S_B_3 : "✅𝖻𝖾𝗇𝗂 𝗀𝗋𝗎𝖻𝗎𝗇𝖺 𝖾𝗄𝗅𝖾✅"
+S_B_4 : "🖥️𝗒𝖺𝗋𝖽ı𝗆 𝗄𝗈𝗆𝗎𝗍𝗅𝖺𝗋🖥️"
+S_B_5 : "🧑‍💻𝗌𝖺𝗁𝗂𝗉🧑‍💻"
+S_B_6 : "💌𝗄𝖺𝗇𝖺𝗅💌"
+S_B_7 : "☁️𝗄𝖺𝗒𝗇𝖺𝗄 𝗄𝗈𝖽☁️"
+S_B_8 : "🤕 𝗒𝗈𝗍𝗎𝖻𝖾 🤕"
+S_B_9 : "🥀 𝖽𝖾𝗌𝗍𝖾𝗄 🥀"
 
 H_B_1 : "᯾ 𝗒𝗈̈𝗇𝖾𝗍𝗂𝖼𝗂 ᯾"
 H_B_2 : "᯾ 𝗒𝖾𝗍𝗄𝗂𝗅𝖾𝗇𝖽𝗂𝗋𝗈̈𝖾 ᯾"
@@ -232,7 +232,7 @@ SA_B_2 : "Genel"
 SA_B_3 : "Genel"
 
 QU_B_1 : "Kuyruk"
-QU_B_2 : " {0} —————————— {1}"
+QU_B_2 : " {0} ●─────────── {1}"
 
 sudo_1 : "» {0} ɪs ᴀʟʀᴇᴀᴅʏ ɪɴ sᴜᴅᴏ ᴜsᴇʀs ʟɪsᴛ."
 sudo_2 : "» ᴀᴅᴅᴇᴅ {0} ᴛᴏ sᴜᴅᴏ ᴜsᴇʀs ʟɪsᴛ." 
